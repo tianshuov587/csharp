@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Tvan")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Async")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92af8cd6c44f5d8402ebb26bcf817c408ea18084")]
-[assembly: System.Reflection.AssemblyProductAttribute("Tvan")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Tvan")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74829174540f09848c181a4de2c73ab767305f91")]
+[assembly: System.Reflection.AssemblyProductAttribute("Async")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Async")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
